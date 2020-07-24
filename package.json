@@ -1,0 +1,29 @@
+{
+  "name": "gamefirstproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrMishanya/GameFirstProject.git"
+  },
+  "author": "Misha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrMishanya/GameFirstProject/issues"
+  },
+  "homepage": "https://github.com/MrMishanya/GameFirstProject#readme",
+  "dependencies": {
+    "webpack": "4.43.0",
+    "webpack-cli": "3.3.12",
+    "typescript": "3.9.7",
+    "ts-loader": "8.0.1",
+    "webpack-dev-server": "3.11.0",
+    "pixi.js": "5.3.0"
+  }
+}
