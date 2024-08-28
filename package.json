@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/MrMishanya/GameFirstProject#readme",
   "dependencies": {
-    "webpack": "4.43.0",
+    "webpack": "5.94.0",
     "webpack-cli": "3.3.12",
     "typescript": "3.9.7",
     "ts-loader": "8.0.1",
